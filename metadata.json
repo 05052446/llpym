@@ -1,0 +1,8 @@
+{
+  "name": "Remix 来了朋友们 - 微信小程序首页",
+  "description": "微信原生小程序首页及代码生成器，具备鼠尾草绿质感设计、大仙私塾、挚友盲盒、同行聚落等模块与完整 WXML/WXSS/JS 原生代码导出。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
